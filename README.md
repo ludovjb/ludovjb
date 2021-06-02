@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ludovjb
 - 👀 I’m interested in Computer Science, AI and above all, learning news things...
-- 🌱 I’m currently learning Reinforcement Learning (RL).
-- 💞️ I’m looking to collaborate on Multi-Agent RL.
+- 🌱 I’m currently learning Reinforcement Learning (RL) and how to make good decisions in a Decentralised Multi-Agent system with uncertainty (Dec-POMDPs).
+- 💞️ I’m looking to collaborate on Rl and Multi-Agent RL challenges.
 - 📫 How to reach me: by email or here, on GitHub.
